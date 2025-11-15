@@ -7,10 +7,15 @@ Features: VGG16-based image classifier Transfer learning with custom top layers 
 Project Goals:
 
   Build an AI model to detect PCOS from ultrasound images
+  
   Use VGG16 as the base model (transfer learning)
+  
   Train the model with high accuracy
+  
   Save the trained model
+  
   Create a simple inference script to predict new images
+  
   Upload project to GitHub for sharing
 
 Requirements: tensorflow opencv-python numpy matplotlib tqdm scikit-learn
